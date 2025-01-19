@@ -24,5 +24,21 @@ public class Demo {
 	{
 		System.out.println("New println added");
 	}
+	
+	@Test
+	public void run3()
+	{
+		System.out.println("New println added");
+	}
+	@Test
+	public void run4()
+	{
+		System.out.println("New println added");
+	}
+	@Test
+	public void run5()
+	{
+		System.out.println("New println added");
+	}
 
 }
