@@ -28,5 +28,12 @@ public class Git_Test_Childbranch {
 		System.out.println("GITX");	
 		
 	}
+	
+	@Test
+	public void testSys4()
+	{
+		System.out.println("GITXMainBranch");	
+		
+	}
 
 }
